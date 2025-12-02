@@ -1,0 +1,1 @@
+# screenshot-scripts-for-hyprland
